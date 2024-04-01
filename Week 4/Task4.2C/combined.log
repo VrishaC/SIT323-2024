@@ -1,0 +1,19 @@
+{"level":"error","message":"n2 is incorrectly defined","service":"calculate-service"}
+{"level":"info","message":"Parameters 2002 and 1101 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 1977 and 2206 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 1972 and 1206 received for addition","service":"calculate-service"}
+{"level":"error","message":"n2 is incorrectly defined","service":"calculate-service"}
+{"level":"error","message":"n1 is incorrectly defined","service":"calculate-service"}
+{"level":"info","message":"Parameters 2002 and 1101 received for exponentiation","service":"calculate-service"}
+{"level":"info","message":"Parameters 2 and 1 received for exponentiation","service":"calculate-service"}
+{"level":"info","message":"Parameters 2 and 10 received for exponentiation","service":"calculate-service"}
+{"level":"info","message":"Parameters 20 and 10 received for exponentiation","service":"calculate-service"}
+{"level":"info","message":"Parameters 200 and 10 received for exponentiation","service":"calculate-service"}
+{"level":"info","message":"Parameters 2002 and 10 received for exponentiation","service":"calculate-service"}
+{"level":"info","message":"Parameters 2002 and 1101 received for exponentiation","service":"calculate-service"}
+{"level":"info","message":"Parameter 2002 received for square root operations","service":"calculate-service"}
+{"level":"info","message":"Parameters 2002 and 1101 received for modulus operations","service":"calculate-service"}
+{"level":"info","message":"Parameters 2002 and 0 received for modulus operations","service":"calculate-service"}
+{"level":"info","message":"Parameters 2002 and 1101 received for modulus operations","service":"calculate-service"}
+{"level":"info","message":"Parameters 2002 and 11 received for modulus operations","service":"calculate-service"}
+{"level":"info","message":"Parameters 2002 and 10 received for modulus operations","service":"calculate-service"}
