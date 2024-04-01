@@ -1,0 +1,10 @@
+{"level":"error","message":"n2 is incorrectly defined","service":"calculate-service"}
+{"level":"info","message":"Parameters 2002 and 1101 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 1977 and 2206 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 1972 and 1206 received for addition","service":"calculate-service"}
+{"level":"error","message":"n2 is incorrectly defined","service":"calculate-service"}
+{"level":"error","message":"n1 is incorrectly defined","service":"calculate-service"}
+{"level":"info","message":"Parameters 2002 and 1101 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 2002 and 1101 received for subtraction","service":"calculate-service"}
+{"level":"info","message":"Parameters 2002 and 1101 received for multiplication","service":"calculate-service"}
+{"level":"info","message":"Parameters 2002 and 1101 received for division","service":"calculate-service"}
