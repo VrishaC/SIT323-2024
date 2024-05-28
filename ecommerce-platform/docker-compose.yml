@@ -1,0 +1,42 @@
+version: "3.8"
+
+services:
+  auth:
+    build:
+      context: ./auth
+      dockerfile: Dockerfile
+    container_name: auth
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./auth:/app/auth
+
+  cart:
+    build:
+      context: ./cart
+      dockerfile: Dockerfile
+    container_name: cart
+    ports:
+      - "3001:3001"
+    volumes:
+      - ./cart:/app/cart
+
+  order:
+    build:
+      context: ./order
+      dockerfile: Dockerfile
+    container_name: order
+    ports:
+      - "3002:3002"
+    volumes:
+      - ./order:/app/order
+
+  product:
+    build:
+      context: ./product
+      dockerfile: Dockerfile
+    container_name: product
+    ports:
+      - "3003:3003"
+    volumes:
+      - ./product:/app/product
